@@ -1,4 +1,3 @@
-
 # 🌟 KANDIPILLI NITHIN — Digital Portfolio
 
 > *Tagline:* Data Science & Python Developer · Machine Learning · Web Development
@@ -100,3 +99,13 @@ python -m venv .venv
 source .venv/bin/activate  # on Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python train.py
+# Live Web App 1
+git clone https://github.com/Kandipillinithin/live-web-app-1.git
+cd live-web-app-1
+# if static site
+# open index.html
+# if Node/Flask (example)
+# npm install && npm start  OR  pip install -r requirements.txt && flask run
+# Live Web App 2
+git clone https://github.com/Kandipillinithin/live-web-app-2.git
+cd live-web-app-2
